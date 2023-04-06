@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QuizApp_CRISTI" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#9013FE</item>
+        <item name="colorPrimaryDark">#6A1B9A</item>
+        <item name="colorAccent">#9013FE</item>
+        <!-- Secondary brand color. -->
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#9013FE</item>
+        <item name="colorPrimaryDark">#6A1B9A</item>
+        <item name="colorAccent">#9013FE</item>
+    </style>
+</resources>
